@@ -1,0 +1,230 @@
+{
+  "meme-mission.png": {
+    "dimensions": [
+      1200,
+      675
+    ],
+    "bytes": 65724,
+    "pixel_standard_deviation_rgb": [
+      90.489,
+      78.685,
+      58.891
+    ],
+    "distinct_colors": 2741,
+    "sha256": "3cc8c6ac2ef51b3ee4b0bb102b9f0051242b6feb923e85532a3edd6d45edb194",
+    "ghost_alpha_bboxes": [
+      [
+        198,
+        235,
+        467,
+        553
+      ]
+    ],
+    "all_text_inside_frame": true,
+    "text_boxes": [
+      {
+        "text": "MISSION PASSED",
+        "bbox": [
+          119,
+          37,
+          1082,
+          118
+        ]
+      },
+      {
+        "text": "$",
+        "bbox": [
+          132,
+          551,
+          163,
+          592
+        ]
+      },
+      {
+        "text": "$",
+        "bbox": [
+          515,
+          552,
+          546,
+          593
+        ]
+      },
+      {
+        "text": "REWARD: $500",
+        "bbox": [
+          650,
+          269,
+          1088,
+          317
+        ]
+      },
+      {
+        "text": "make.fun",
+        "bbox": [
+          650,
+          346,
+          1066,
+          407
+        ]
+      },
+      {
+        "text": "REAL CASH. GG.",
+        "bbox": [
+          650,
+          451,
+          957,
+          476
+        ]
+      },
+      {
+        "text": "SIDE QUEST: PAY THE RENT",
+        "bbox": [
+          409,
+          641,
+          792,
+          663
+        ]
+      }
+    ]
+  },
+  "meme-split.png": {
+    "dimensions": [
+      1200,
+      675
+    ],
+    "bytes": 57560,
+    "pixel_standard_deviation_rgb": [
+      77.129,
+      65.708,
+      51.217
+    ],
+    "distinct_colors": 2041,
+    "sha256": "20273483a9a95d9a14cf32aff86c90d851df54ee047c6894d17bf5c54372f94d",
+    "ghost_alpha_bboxes": [
+      [
+        767,
+        319,
+        1003,
+        597
+      ]
+    ],
+    "all_text_inside_frame": true,
+    "text_boxes": [
+      {
+        "text": "ME:",
+        "bbox": [
+          250,
+          23,
+          350,
+          58
+        ]
+      },
+      {
+        "text": "WAITING 13 YEARS",
+        "bbox": [
+          54,
+          85,
+          545,
+          120
+        ]
+      },
+      {
+        "text": "FOR GTA 6",
+        "bbox": [
+          135,
+          151,
+          464,
+          194
+        ]
+      },
+      {
+        "text": "MY AGENT:",
+        "bbox": [
+          751,
+          23,
+          1049,
+          60
+        ]
+      },
+      {
+        "text": "ALREADY EARNING",
+        "bbox": [
+          657,
+          85,
+          1143,
+          120
+        ]
+      },
+      {
+        "text": "ON make.fun",
+        "bbox": [
+          699,
+          151,
+          1101,
+          194
+        ]
+      },
+      {
+        "text": "VS",
+        "bbox": [
+          575,
+          316,
+          626,
+          341
+        ]
+      }
+    ]
+  },
+  "meme-wasted.png": {
+    "dimensions": [
+      1200,
+      675
+    ],
+    "bytes": 55947,
+    "pixel_standard_deviation_rgb": [
+      63.536,
+      60.68,
+      55.989
+    ],
+    "distinct_colors": 1416,
+    "sha256": "c92020a6a2d61fb47bb0a3341b6ec803a0f64b0081b33957b003ce95ee6a2a99",
+    "ghost_alpha_bboxes": [
+      [
+        898,
+        375,
+        1080,
+        590
+      ]
+    ],
+    "all_text_inside_frame": true,
+    "text_boxes": [
+      {
+        "text": "WASTED",
+        "bbox": [
+          229,
+          111,
+          970,
+          237
+        ]
+      },
+      {
+        "text": "MY PATIENCE.  2013 \u2014 2026.",
+        "bbox": [
+          334,
+          288,
+          866,
+          312
+        ]
+      },
+      {
+        "text": "make.fun \u2014 MY AGENT EARNS WHILE I WAIT",
+        "bbox": [
+          152,
+          635,
+          1049,
+          662
+        ]
+      }
+    ]
+  }
+}
